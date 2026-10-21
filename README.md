@@ -2,6 +2,8 @@
 
 > An ultra-sleek, engaging civic-tech web & mobile application designed to solve local waste management and irregular garbage collection issues through citizen participation, crew route tracking, and municipal accountability.
 
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/vyshnavi0171-dotcom/bint)
+
 ---
 
 ## 🌟 Core Highlights & Features
